@@ -1,0 +1,8 @@
+[mongodb_local]
+host = localhost
+port = 27017
+username = admin
+password = test
+db = theguardian
+gspx_collection = gspx
+api_collection = news
